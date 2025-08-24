@@ -1,73 +1,29 @@
-# Welcome to your Lovable project
+# 🌟 Premium E-Commerce Website
 
-## Project info
+A visually refined, emotionally intelligent e-commerce experience built with **React.js**, **TypeScript**, and a focus on **conversion-optimized UX**. Designed and developed by Mishal.
 
-**URL**: https://lovable.dev/projects/a814349d-cbfa-4284-b8ee-72e8e5294d89
+## ✨ Features
 
-## How can I edit this code?
+- 🛒 Custom cart logic with smooth animations and real-time visual feedback  
+- 💳 Dedicated checkout flow with intuitive user guidance  
+- 🎨 Pixel-perfect UI inspired by top-tier e-commerce brands  
+- 📱 Fully responsive across devices and browsers  
+- ⚙️ Scalable CSS architecture using BEM/Tailwind  
+- 🔍 Manual Figma-to-code conversion for design precision  
 
-There are several ways of editing your application.
+## 🚀 Tech Stack
 
-**Use Lovable**
+- **React.js**  
+- **TypeScript**  
+- **Tailwind CSS / SCSS**  
+- **Vite / Webpack**  
+<img width="1920" height="885" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/3e29320b-3f4f-4b11-a036-34d915478a26" />
+<img width="1920" height="887" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/e3e440df-2f83-4c48-8967-fc34329d96a7" />
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a814349d-cbfa-4284-b8ee-72e8e5294d89) and start prompting.
+## 📦 Installation
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+npm install
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a814349d-cbfa-4284-b8ee-72e8e5294d89) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
